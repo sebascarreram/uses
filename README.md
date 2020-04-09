@@ -3,7 +3,7 @@
 ## Theme
 
 For day:
-I use the `Oceanic Next` theme with the dimmed bg option. [Link →](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
+I use the `Oceanic Next` theme with the dimmed bg option. [Link →](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext/?target=_blank)
 
 For nigth:
 I use the `Min dark` theme. [Link →](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
