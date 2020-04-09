@@ -1,4 +1,4 @@
-# ** Visual studio code**
+# ** Visual Studio Code**
 
 ## Theme
 
